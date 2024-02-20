@@ -2,7 +2,6 @@
 
 - :office: MidasIT ( Sep 2019 ~ )
 - :heart: FrontEnd, Algorithms, Computer Science, Infra(FE)
-- :trophy: Samsung Software Algorithms A+,B (expiration)
 - :email: bigkyoung2@gmail.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcocobino&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false&style=flat-square)](https://hits.seeyoufarm.com)
